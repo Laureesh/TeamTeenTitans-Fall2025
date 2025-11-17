@@ -1,0 +1,284 @@
+ROOM:1
+Main Lobby
+The entrance hall of the Red Cross facility. Dim fluorescent lights flicker overhead. The air smells of antiseptic and something else... something wrong. Emergency exit signs glow red in the distance. You need to find a way out.
+north=-1
+south=-1
+east=2
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:2
+Corridor Alpha
+A long hallway with flickering lights. The walls are lined with medical posters, some torn. A vending machine hums in the corner, its display showing "Vending500". Something about it seems off.
+north=-1
+south=-1
+east=3
+west=1
+monster=-1
+puzzle=1
+--------
+
+ROOM:3
+Storage Room
+Shelves filled with medical supplies line the walls. Some boxes have been knocked over. A vending machine labeled "Vending501" stands against the far wall, its screen displaying a riddle.
+north=-1
+south=-1
+east=4
+west=2
+monster=-1
+puzzle=2
+--------
+
+ROOM:4
+Reception Area
+An abandoned reception desk. Papers are scattered everywhere. The computer screens are dark. You hear distant footsteps.
+north=-1
+south=-1
+east=-1
+west=3
+monster=1
+puzzle=-1
+--------
+
+ROOM:5
+Waiting Room
+Rows of empty chairs face a wall-mounted TV showing static. A coffee machine sits in the corner, long since run dry.
+north=-1
+south=-1
+east=6
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:6
+Hallway Beta
+Another corridor, this one darker. The floor tiles are cracked. You can hear something moving ahead.
+north=-1
+south=-1
+east=7
+west=5
+monster=2
+puzzle=-1
+--------
+
+ROOM:7
+Janitor Closet
+A small storage room filled with cleaning supplies. The door creaks as you enter. A vending machine labeled "Vending400" glows ominously in the corner.
+north=-1
+south=-1
+east=-1
+west=6
+monster=-1
+puzzle=3
+--------
+
+ROOM:8
+Break Room
+A small kitchen area with a table and chairs. The refrigerator door hangs open, revealing empty shelves. Something smells rotten.
+north=-1
+south=-1
+east=9
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:9
+Office Wing
+A series of small offices. Most doors are locked. One is slightly ajar, revealing a dark interior.
+north=-1
+south=-1
+east=-1
+west=8
+monster=3
+puzzle=-1
+--------
+
+ROOM:10
+Supply Closet
+Cramped space filled with medical equipment. A vending machine "Vending401" sits in the corner, its display showing another puzzle.
+north=-1
+south=-1
+east=11
+west=-1
+monster=-1
+puzzle=4
+--------
+
+ROOM:11
+Stairwell Landing
+The stairs creak under your weight. Emergency lighting casts long shadows. You can go up or down from here.
+north=12
+south=-1
+east=-1
+west=10
+monster=-1
+puzzle=-1
+--------
+
+ROOM:12
+Second Floor Hallway
+A wide corridor on the second floor. The walls are covered in warning signs. A vending machine "Vending300" blocks part of the hallway.
+north=13
+south=11
+east=14
+west=-1
+monster=-1
+puzzle=5
+--------
+
+ROOM:13
+Laboratory
+Lab equipment is scattered everywhere. Broken beakers and test tubes cover the floor. Something was being tested here...
+north=-1
+south=12
+east=-1
+west=-1
+monster=4
+puzzle=-1
+--------
+
+ROOM:14
+Observation Room
+A room with one-way glass. Chairs face the window, but no one is watching anymore.
+north=-1
+south=-1
+east=15
+west=12
+monster=-1
+puzzle=-1
+--------
+
+ROOM:15
+Conference Room
+A large table dominates the center. Chairs are pushed back as if people left in a hurry. A vending machine "Vending301" sits against the wall.
+north=-1
+south=-1
+east=16
+west=14
+monster=-1
+puzzle=6
+--------
+
+ROOM:16
+Medical Records
+Filing cabinets line the walls. Drawers hang open, files scattered. A vending machine "Vending201" hums quietly.
+north=-1
+south=-1
+east=17
+west=15
+monster=-1
+puzzle=8
+--------
+
+ROOM:17
+Equipment Storage
+Large medical equipment sits unused. Some machines still beep intermittently. A vending machine "Vending200" glows in the darkness.
+north=-1
+south=-1
+east=18
+west=16
+monster=-1
+puzzle=7
+--------
+
+ROOM:18
+Quarantine Zone
+Warning signs cover the door. The room beyond is dark. You can hear breathing.
+north=-1
+south=-1
+east=-1
+west=17
+monster=5
+puzzle=-1
+--------
+
+ROOM:19
+Staff Lounge
+A more comfortable break area with couches and a TV. The TV shows only static.
+north=20
+south=-1
+east=-1
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:20
+Administrative Office
+A large office with a desk and filing cabinets. The computer is still on, showing an error message.
+north=-1
+south=19
+east=-1
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:21
+Third Floor Landing
+The top floor. The air feels different here. More dangerous.
+north=22
+south=-1
+east=23
+west=-1
+monster=-1
+puzzle=-1
+--------
+
+ROOM:22
+Executive Suite
+Luxurious office space. Everything looks expensive and untouched. Too quiet.
+north=-1
+south=21
+east=-1
+west=-1
+monster=6
+puzzle=-1
+--------
+
+ROOM:23
+Security Office
+Monitors line the walls, all showing static. A vending machine "Vending100" sits in the corner, its display bright.
+north=-1
+south=-1
+east=24
+west=21
+monster=-1
+puzzle=9
+--------
+
+ROOM:24
+Roof Access Hallway
+A narrow hallway leading to the roof. Emergency exit signs point the way.
+north=-1
+south=-1
+east=25
+west=23
+monster=-1
+puzzle=-1
+--------
+
+ROOM:25
+Final Corridor
+The last hallway before freedom. A vending machine "Vending101" blocks your path, its final puzzle displayed.
+north=-1
+south=-1
+east=26
+west=24
+monster=-1
+puzzle=10
+--------
+
+ROOM:26
+Roof Exit
+Fresh air! The roof access door is here. But something is guarding it...
+north=-1
+south=-1
+east=-1
+west=25
+monster=7
+puzzle=-1

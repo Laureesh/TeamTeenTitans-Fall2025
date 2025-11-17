@@ -1,0 +1,48 @@
+MONSTER:1
+Janitor Mutant
+12
+2
+4
+1
+
+MONSTER:2
+Nurse Beast
+18
+3
+5
+1
+
+MONSTER:3
+Security Bot
+22
+4
+7
+2
+
+MONSTER:4
+Lab Experiment
+25
+5
+8
+2
+
+MONSTER:5
+Quarantine Patient
+30
+6
+9
+2
+
+MONSTER:6
+Executive Guard
+35
+7
+10
+3
+
+MONSTER:7
+Red Cross Monster
+40
+8
+12
+3

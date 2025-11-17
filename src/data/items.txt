@@ -1,0 +1,23 @@
+ITEM:sword
+Weapon
+10
+Sword
+A sharp blade
+
+ITEM:potion
+Consumable
+15
+Health Potion
+Restores health
+
+ITEM:armor
+Armor
+5
+Armor
+Protective gear
+
+ITEM:key
+Key
+0
+Key
+Unlocks doors
